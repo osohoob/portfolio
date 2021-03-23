@@ -1,0 +1,40 @@
+.navigation-container {
+    background-color: white;
+    position: relative;
+    border: 1px solid black;
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    .navigation-items {
+        cursor: pointer;
+        background-color: white;
+        font-size: 24px;
+        display: flex;
+        flex-direction: row;
+
+        .my-name {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+
+        .line {
+            border: 1px solid transparent;
+            width: 900px;
+        }
+
+        div {
+            background-color: white;
+            margin: 8px;
+            padding: 8px;
+            a {
+                background-color: white;
+            }
+        }
+
+    }
+}
