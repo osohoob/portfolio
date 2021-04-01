@@ -1,0 +1,64 @@
+.project-page {
+
+    h2 {
+        font-size: 48px;
+        color: #362A43;
+        font-weight: 700;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        color: #464646;
+        margin-bottom: 0;
+    }
+
+    .space-between {
+        justify-content: space-around;
+    }
+
+    .first-container {
+        width: 222.500px;
+        height: 424.500;
+        border: 1px solid lightgrey;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 30px;
+        box-shadow: 0 4px 30px rgba( 74, 148, 154, 0.1);
+        margin-top: 50px;
+    }
+    .second-container {
+        width: 222.500px;
+        height: 424.500;
+        border: 1px solid lightgrey;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 30px;
+        box-shadow: 0 4px 30px rgba( 74, 148, 154, 0.1);
+        margin-top: 50px;
+    }
+
+    .third-container {
+        width: 222.500px;
+        height: 424.500;
+        border: 1px solid lightgrey;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 30px;
+        box-shadow: 0 4px 30px rgba( 74, 148, 154, 0.1);
+        margin-top: 50px;   
+    }
+
+    .fourth-container {
+        width: 222.500px;
+        height: 424.500;
+        border: 1px solid lightgrey;
+        background: #fff;
+        padding: 20px 20px;
+        border-radius: 30px;
+        box-shadow: 0 4px 30px rgba( 74, 148, 154, 0.1);
+        margin-top: 50px;   
+    }
+}
